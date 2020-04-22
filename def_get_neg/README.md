@@ -1,0 +1,1 @@
+define a function called **get_neg** which takes one parameter, a string which represents one or more sentences, and calculates how many words in the string are considered negative words. Use the list, _negative_words_ to determine what words will count as negative.
