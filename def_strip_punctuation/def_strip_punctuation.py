@@ -9,5 +9,5 @@ def strip_punctuation(words):
     print(words)
     return words
     
-check=strip_punctuation('Strip, ssss!!!')
+check=strip_punctuation('Strip, Test!!!')
 print(check)
